@@ -12,5 +12,5 @@ Core utils:
 
 | Name  | About |
 | ------------- | ------------- |
-| PDF  | Search and convert to pdf  |
-| Content Cell  | Content Cell  |
+| PDF  |  Locate and convert to pdf  |
+| Locate | Locate a specific file  |
