@@ -24,6 +24,9 @@ def bash():
     if data == "pdf":
         pdf.execute(ask("PDF \n"))
         bash()
+    elif data == "loc"
+        loc.execute(ask("LOC \n"))
+        bash()
     else:
         print("ERROR")
         time.sleep(5)
