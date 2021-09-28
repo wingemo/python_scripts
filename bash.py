@@ -1,5 +1,6 @@
 import pdf
 import os
+import time
 
 if __name__ == "__main__":
     bash()
@@ -14,3 +15,8 @@ def bash():
     if data == "pdf":
         pdf.execute(ask("PDF \n"))
         bash()
+    else:
+        print("ERROR")
+        time.sleep(5)
+        bash()
+ 
