@@ -8,7 +8,7 @@ def ask(script):
   return data = input()
 
 def bash():
-  data = ask("Bash \n")
+  data = ask("BASH \n")
 
   if data == 'pdf':
     data = ask("PDF \n")
