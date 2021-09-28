@@ -1,3 +1,4 @@
+import pdf
 import os
 
 bash();
@@ -11,4 +12,4 @@ def bash():
   data = ask("BASH \n")
 
   if data == 'pdf':
-    data = ask("PDF \n")
+    pdf.execute(ask("PDF \n"))
