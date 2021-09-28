@@ -6,4 +6,4 @@
 ┃╰━╯┃╭━╮┃╰━╯┃┃╱┃┃
 ╰━━━┻╯╱╰┻━━━┻╯╱╰╯
 
-### A Python Bash
+### A Python Bash Based On GNU
