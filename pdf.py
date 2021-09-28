@@ -6,6 +6,3 @@ for root, dir, files in os.walk(search_path):
       result.append(os.path.join(root, sys.argv))
 print result
 
-if sys.argv[1] = X {
-
-}
