@@ -6,7 +6,7 @@ bash();
 def ask(script):
   os.system('clear')
   print(script)
-  return data = input()
+  return input()
 
 def bash():
   data = ask("BASH \n")
