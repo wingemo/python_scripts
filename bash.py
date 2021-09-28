@@ -7,7 +7,7 @@ def ask(script):
   print(script)
   return data = input()
 
-def bash:
+def bash():
   data = ask("Bash 4 life \n")
 
   if data == 'pdf':
