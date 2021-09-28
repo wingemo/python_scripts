@@ -8,7 +8,7 @@
 
 ### A Python Bash Based On GNU
 
-| First Header  | Second Header |
+| Name  | About |
 | ------------- | ------------- |
 | PDF  | Search and convert to pdf  |
 | Content Cell  | Content Cell  |
