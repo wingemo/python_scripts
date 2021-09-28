@@ -13,4 +13,4 @@ Core utils:
 | Name  | About |
 | ------------- | ------------- |
 | PDF  |  Locate and convert to pdf  |
-| Locate | Locate a specific file  |
+| Loc | Locate a specific file  |
