@@ -1,7 +1,8 @@
 import pdf
 import os
 
-bash()
+if __name__ == "__main__":
+    bash()
 
 def ask(script):
     os.system("clear")
