@@ -20,8 +20,7 @@ def art():
     return art.read()
 
 def bash():
-    data = ask(art())
-    if data == "pdf":
+    if ask(art()) == "pdf":
         pdf.execute(ask("PDF \n"))
         bash()
     elif data == "loc"
