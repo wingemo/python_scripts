@@ -1,15 +1,18 @@
 import pdf
 import os
 
-bash();
+bash()
+
 
 def ask(script):
-  os.system('clear')
-  print(script)
-  return input()
+    os.system("clear")
+    print(script)
+    return input()
+
 
 def bash():
-  data = ask("BASH \n")
+    data = ask("BASH \n")
 
-  if data == 'pdf':
-    pdf.execute(ask("PDF \n"))
+    if data == "pdf":
+        pdf.execute(ask("PDF \n"))
+
