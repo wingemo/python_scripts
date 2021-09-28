@@ -10,8 +10,12 @@ def ask(script):
     print(script)
     return input()
 
+def art(): 
+    art = with open('art.txt', 'r')
+    return art.read()
+
 def bash():
-    data = ask("BASH \n")
+    data = ask(art())
     if data == "pdf":
         pdf.execute(ask("PDF \n"))
         bash()
