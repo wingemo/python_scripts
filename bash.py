@@ -4,6 +4,7 @@ more than just one line
 """
 
 import pdf
+import loc
 import os
 import time
 
