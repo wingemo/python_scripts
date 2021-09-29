@@ -12,7 +12,6 @@ def ask(script):
     print(script)
     return input()
 
-
 def bash():
     data = ask("BASH")
     if data == "pdf":
